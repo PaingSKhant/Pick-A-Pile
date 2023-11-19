@@ -1,6 +1,9 @@
 <?php
 
-require_once "./model/question.php";
+require_once "./oop/connection.php";
+
+$questions = $piles->question();
+
 
 ?>
 

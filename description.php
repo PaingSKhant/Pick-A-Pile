@@ -1,6 +1,10 @@
 <?php
 
-require_once "./model/answer.php";
+require_once "./oop/connection.php";
+
+$answers = $piles->show();
+
+$id = $piles->getData();
 
 ?>
 <!DOCTYPE html>

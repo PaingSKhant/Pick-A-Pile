@@ -1,6 +1,13 @@
 <?php
 
-require_once "./model/card.php";
+require_once "./oop/connection.php";
+
+$questions = $piles->question();
+
+$answers = $piles->show();
+
+$id = $piles->getData();
+
 
 ?>
 
