@@ -4,3 +4,9 @@
 ‌သိချင်တဲ့ မေးခွန်းကို နှိပ်မယ် အဲ့မေးခွန်းနဲ့ပတ်သက်တဲ့ ပုံလေးတွေကျလာမယ် အဲ့ပုံထဲကမှ တစ်ပုံကိုရွေးရမယ် အဲ့ပုံကိုနှိပ်လိုက်ရင် အဖြေရလာပါမယ်
 
 project idea by https://github.com/sannlynnhtun-coding
+
+![Pickapile](./img/Screenshot%202023-12-16%20102358.png)
+
+![Pickapile](./img/Screenshot%202023-12-16%20102413.png)
+
+![Pickapile](./img/Screenshot%202023-12-16%20102435.png)
